@@ -1,4 +1,4 @@
-# Student_Portal_springboot
+# Student Portal using springboot
 
 This is an intricate Java-Spring Boot Student Management System. 
 Utilized sophisticated tools such as Eclipse, Postman, and MySQL 
